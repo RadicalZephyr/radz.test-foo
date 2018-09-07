@@ -3,7 +3,7 @@
             radz.test.baz
             radz.test.qux))
 
-(def number 1)
+(def number 2)
 
 (defn bar-number []
   radz.test.bar/number)
